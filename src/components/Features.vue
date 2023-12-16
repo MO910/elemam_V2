@@ -37,12 +37,12 @@ export default {
     };
   },
   mounted() {
-    window.addEventListener("scroll", console.log(window.scrollY));
+    // window.addEventListener("scroll", console.log(window.scrollY));
   },
 
   methods: {
     handleScroll() {
-      console.log("handleScroll");
+      // console.log("handleScroll");
     },
   },
 };

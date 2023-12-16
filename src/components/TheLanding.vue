@@ -15,7 +15,7 @@
       </div>
       <div class="flex justify-center items-center h-80 contain">
         <div class="right w-1/2 relative">
-          <img src="../assets/الإمام-بدون-خلفية2.webp" alt="" class="m-auto" />
+          <img src="../assets/الإمام-بدون-خلفية2.png" alt="" class="m-auto" />
           <div class="absolute -bottom-2.5">
             <img
               src="../assets/Animation - 1701644199286.gif"
@@ -170,7 +170,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .TheLanding {
-  background-image: url("../assets/WhatsApp Image 2023-12-04 at 11.00.58 PM.jpeg");
+  background-image: url("../assets/background.png");
   background-size: cover;
   background-position: center top;
   background-attachment: fixed;
